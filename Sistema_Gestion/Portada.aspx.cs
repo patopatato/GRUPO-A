@@ -13,9 +13,14 @@ using System.Xml.Linq;
 
 namespace Sistema_Gestion
 {
-    public partial class Portada : System.Web.UI.Page
+    public partial class WebForm1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void BotonVerMalla_Click(object sender, EventArgs e)
         {
 
         }

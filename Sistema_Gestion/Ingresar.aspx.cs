@@ -23,11 +23,7 @@ namespace Sistema_Gestion
 
         protected void inicio_Click(object sender, EventArgs e)
         {
-             
-            
-            Usuario us=new Usuario();
-
-            us.guardar_contraseña("hola"); 
+             Usuario us=new Usuario();
 
             String usuario="";
             String contraseña="";
@@ -35,7 +31,22 @@ namespace Sistema_Gestion
             contraseña = id.Text;
             us.Autentificacion(usuario,contraseña);
 
-            
+            L.Text = "electro";
+        }
+
+        protected void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void BotonAlumno_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void LinkButton1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
