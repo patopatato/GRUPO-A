@@ -1,0 +1,5 @@
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\Sistema_Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\Sistema_Gestion\bin\Sistema_Gestion.dll
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\Sistema_Gestion\bin\Sistema_Gestion.pdb
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\Sistema_Gestion\obj\Debug\Sistema_Gestion.dll
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\Sistema_Gestion\obj\Debug\Sistema_Gestion.pdb

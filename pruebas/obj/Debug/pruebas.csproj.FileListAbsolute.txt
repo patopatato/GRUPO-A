@@ -1,0 +1,9 @@
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\bin\Debug\pruebas.dll
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\bin\Debug\pruebas.pdb
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\bin\Debug\Sistema_Gestion.dll
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\bin\Debug\Sistema_Gestion.pdb
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\bin\Debug\Sistema_Gestion_Accessor.dll
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\bin\Debug\Sistema_Gestion_Accessor.pdb
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\obj\Debug\pruebas.dll
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\Sistema_Gestion\pruebas\obj\Debug\pruebas.pdb
